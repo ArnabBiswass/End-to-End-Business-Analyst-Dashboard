@@ -1,4 +1,6 @@
 # End-to-End-Business-Analyst-Dashboard
+<img width="2400" height="1350" alt="1_Food-Delivery-Platform-2023-Performance-Review" src="https://github.com/user-attachments/assets/b4811562-297d-4b44-921c-d0b5b244191b" />
+
 
 <img width="2767" height="1600" alt="Business Analyst Dashboard-3" src="https://github.com/user-attachments/assets/e08c9d6e-75d0-4780-9acc-0f960d60b05a" />
 
